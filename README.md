@@ -7,6 +7,7 @@ A month-long celebration from October 1st - 31st sponsored by Digital Ocean and 
 https://hacktoberfest.digitalocean.com/
 
 # Steps to Follow
-1.Fork the repository
-2.Add your code in the respective folders
-3.Create a pull request
+
+1. Fork the repository
+2. Add your code in the respective folders
+3. Create a pull request
