@@ -11,3 +11,4 @@ https://hacktoberfest.digitalocean.com/
 1. Fork the repository
 2. Add your code in the respective folders
 3. Create a pull request
+4. There is a one week review period
