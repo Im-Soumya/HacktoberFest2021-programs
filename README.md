@@ -1,4 +1,4 @@
-# HacktoberFest2021-programs
+# HacktoberFest2021-program
 This Repository is created to help fellow coders learn about open source contributions, mainly for Hacktoberest 2021
 
 # Welcome to hacktoberfest 2021 Public Repository.
